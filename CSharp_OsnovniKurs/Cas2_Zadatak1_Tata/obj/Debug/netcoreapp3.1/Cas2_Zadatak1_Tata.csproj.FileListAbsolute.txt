@@ -1,0 +1,13 @@
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.exe
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.deps.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.runtimeconfig.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.runtimeconfig.dev.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.dll
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\bin\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.pdb
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.csprojAssemblyReference.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.AssemblyInfoInputs.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.AssemblyInfo.cs
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.csproj.CoreCompileInputs.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.dll
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.pdb
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1_Tata\obj\Debug\netcoreapp3.1\Cas2_Zadatak1_Tata.genruntimeconfig.cache

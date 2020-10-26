@@ -1,0 +1,7 @@
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\bin\Debug\DomaciRad2.exe.config
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\bin\Debug\DomaciRad2.exe
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\bin\Debug\DomaciRad2.pdb
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\obj\Debug\Cas3_Zadatak2.csprojAssemblyReference.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\obj\Debug\Cas3_Zadatak2.csproj.CoreCompileInputs.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\obj\Debug\DomaciRad2.exe
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas3_Zadatak2\obj\Debug\DomaciRad2.pdb

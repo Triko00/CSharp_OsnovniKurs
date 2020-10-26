@@ -1,0 +1,13 @@
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.exe
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.deps.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.runtimeconfig.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.runtimeconfig.dev.json
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.dll
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\bin\Debug\netcoreapp3.1\Cas2_Zadatak1.pdb
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.csprojAssemblyReference.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.AssemblyInfoInputs.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.AssemblyInfo.cs
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.csproj.CoreCompileInputs.cache
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.dll
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.pdb
+D:\Razno\Veljko\C#\CSharp_OsnovniKurs\CSharp_OsnovniKurs\Cas2_Zadatak1\obj\Debug\netcoreapp3.1\Cas2_Zadatak1.genruntimeconfig.cache

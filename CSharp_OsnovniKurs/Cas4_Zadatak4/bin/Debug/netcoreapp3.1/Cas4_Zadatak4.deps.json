@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cas4_Zadatak4/1.0.0": {
+        "runtime": {
+          "Cas4_Zadatak4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cas4_Zadatak4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
