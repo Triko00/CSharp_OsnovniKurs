@@ -8,6 +8,7 @@ namespace Domaci_rad
         {
             int absX;
 
+            Console.WriteLine("Unesi broj. Odredicu da li je pozitivan ili negativan.");
             int x = int.Parse(Console.ReadLine());
 
             if (x < 0)
